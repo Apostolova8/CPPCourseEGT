@@ -1,0 +1,10 @@
+# ninja log v5
+4	575	7278080358500486	CMakeFiles/OnlineShop.dir/Drinks.cpp.obj	5f5ca96475f6082d
+22	1138	7278079231855788	CMakeFiles/OnlineShop.dir/NoAlcoholicDrinks.cpp.obj	45c86c0de8442d1e
+14	901	7276254464965590	CMakeFiles/OnlineShop.dir/Customers.cpp.obj	b7f2e229df557a06
+11	1131	7278079231791202	CMakeFiles/OnlineShop.dir/AlcoholicDrinks.cpp.obj	7ede96b26398a619
+7	973	7278080774751623	CMakeFiles/OnlineShop.dir/main.cpp.obj	ac6fb7b02135853
+650	827	7276301432033770	OnlineShop.exe	811faf434c141233
+0	13	0	clean	d3ec806c043fac72
+11	593	7278081460328330	CMakeFiles/OnlineShop.dir/Orders.cpp.obj	ec0a2ef5c82f0f09
+27	1140	7278079231870947	CMakeFiles/OnlineShop.dir/Foods.cpp.obj	167b07f404922548
