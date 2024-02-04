@@ -1,3 +1,0 @@
-C:/Users/Lenovo/Desktop/CppCourseEGT/OnlineShop_/cmake-build-debug/CMakeFiles/OnlineShop.dir
-C:/Users/Lenovo/Desktop/CppCourseEGT/OnlineShop_/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Lenovo/Desktop/CppCourseEGT/OnlineShop_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
