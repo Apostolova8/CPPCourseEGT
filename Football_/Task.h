@@ -7,6 +7,7 @@
 
 #endif //FOOTBALL__TASK_H
 
+//Not finished program
 /*
 Система за футболна федерация :
 3 типа потребители
