@@ -7,6 +7,7 @@
 
 #endif //ONLINESHOP_TASK_H
 
+//Not finished program
 /*Drinks
 Alcoholic; NoAlcoholic
 Food: Tea Coffee Biscuits Chocolates, Nuts
