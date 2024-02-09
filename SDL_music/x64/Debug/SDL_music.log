@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\Lenovo\source\repos\SDL_music\Game.cpp(105,2): warning C4150: deletion of pointer to incomplete type 'SDL_Window'; no destructor called
+C:\Users\Lenovo\Desktop\C++\SDL2-2.30.0\include\SDL_video.h(95,16): message : see declaration of 'SDL_Window'
+C:\Users\Lenovo\source\repos\SDL_music\Game.cpp(106,2): warning C4150: deletion of pointer to incomplete type 'SDL_Renderer'; no destructor called
+C:\Users\Lenovo\Desktop\C++\SDL2-2.30.0\include\SDL_render.h(141,8): message : see declaration of 'SDL_Renderer'
+  SoundManager.cpp
+  Generating Code...
+C:\Users\Lenovo\source\repos\SDL_music\SoundManager.cpp(34): warning C4715: 'SoundManager::load': not all control paths return a value
+  SDL_music.vcxproj -> C:\Users\Lenovo\source\repos\SDL_music\x64\Debug\SDL_music.exe
