@@ -11,7 +11,7 @@ class Circle : public Shape {
 public:
     Circle(const string& color) : Shape(color) {}   //inheritance
 
-    ~Circle();
+    virtual ~Circle();
 
     void draw() override;       //override function
 };
