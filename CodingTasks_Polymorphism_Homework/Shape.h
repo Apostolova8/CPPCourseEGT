@@ -13,7 +13,7 @@ class Shape {
 public:
     Shape(string);  //constructor
 
-    ~Shape();   //destructor
+    virtual ~Shape();   //destructor
 
     //set and get methods for color:
 
