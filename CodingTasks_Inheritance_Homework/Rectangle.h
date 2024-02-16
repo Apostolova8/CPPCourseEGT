@@ -11,7 +11,7 @@ class Rectangle : public Shape {
 public:
     Rectangle(const string& color) : Shape(color) {}
 
-    ~Rectangle();
+    virtual ~Rectangle();
 
     void draw() override;
 };
